@@ -1,0 +1,17 @@
+D:\Source\Project\ByOdonto\bin\Debug\ByOdonto.exe.config
+D:\Source\Project\ByOdonto\bin\Debug\ByOdonto.exe
+D:\Source\Project\ByOdonto\bin\Debug\ByOdonto.pdb
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.csproj.AssemblyReference.cache
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.csproj.SuggestedBindingRedirects.cache
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Home.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Login.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Properties.Resources.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.csproj.GenerateResource.cache
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.csproj.CoreCompileInputs.cache
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.exe
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.pdb
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.CadastroRecep.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.CadastroDoctor.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Tratamento.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Paciente.resources
+D:\Source\Project\ByOdonto\obj\Debug\ByOdonto.Recepcao.resources
